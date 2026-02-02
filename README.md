@@ -8,5 +8,5 @@ Download python dependencies
 ```
 python -m pip install -r requirements.txt
 ```
-Download the dataset under **data/** folder
+Download the dataset under **data/GTSRB** folder
 
